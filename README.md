@@ -1,4 +1,4 @@
-#3: RESTFUL API DEMO
+# RESTFUL API DEMO
 
 **The Basic Goal** : Create an API for a task management / todo list.
 
