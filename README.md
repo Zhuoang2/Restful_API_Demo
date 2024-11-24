@@ -105,26 +105,6 @@ Here is the Task Schema:
     - PUT a User with pendingTasks
     - DELETE a User should unassign the user's pending tasks
 
-## 2. Getting Started
-1. Clone the repository:
-`git clone https://gitlab.com/uiuc-web-programming/mp3.git mp3`, then `cd mp3`
-2. Install dependencies:
-`npm install`
-3. Start the dev server:
-`npm start` or 
-`nodemon --exec node server.js` to automatically restart the server on save.
-
-
-## 3. Tips
-  - Start early!
-  - Please DO NOT delete the `.gitignore file` from the project, you will lose 1% point 
-  - Check out [Postman](https://www.getpostman.com/postman) to your API
-  - Free MongoDB server - [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
-  - You don't need to host anywhere, we will check out your code locally, be sure to run your MongoDB server all the time
-  - The example queries above will cover 70% grade, and another 30% of corner test cases will not be released.
-
-For answers to some popular questions see [FAQ.md](./FAQ.md).
-
 ### How to use the DB Scripts
 
 Assuming your API is fully operational (you need to have implement /users and /tasks endpoints for your API), these scripts (in database_scripts/ folder) will populate and clear your database as needed. 
