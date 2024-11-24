@@ -1,3 +1,0 @@
-fmTYWZQ5cJM7RNiY
-
-mongodb+srv://mp:3@cluster0.fj5ue.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
