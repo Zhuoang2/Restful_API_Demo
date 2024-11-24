@@ -1,14 +1,4 @@
-# MP #3: APIed Piper
-### Due: November 19th, 2024, 11:59PM CT
-
-## Table of Contents
-1. [Assignment](#assignment)
-2. [Getting Started](#getting-started)
-3. [Tips](#tips)
-4. [Rules](#rules)
-5. [Submission Details](#submission-details)
-
-## 1. Assignment
+#3: RESTFUL API DEMO
 
 **The Basic Goal** : Create an API for a task management / todo list.
 
