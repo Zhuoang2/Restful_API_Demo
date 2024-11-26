@@ -11,6 +11,8 @@ This project is a RESTful API built with **Node.js**, **Express**, and **Mongoos
 - **Proper HTTP status codes** and error messages.
 - **Standardized responses** with `message` and `data` fields.
 
+## Goals
+
 **The Basic Goal** : Create an API for a task management / todo list.
 
 **The Fun Goal** : Imagine your hot new startup, Llama.io, is creating the best todo webapp on the market. You're competing in a crowded space with hot players like Asana, Wunderlist, Google Keep, etc, so your API has to be top-notch.
