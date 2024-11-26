@@ -2,6 +2,15 @@
 
 This project is a RESTful API built with **Node.js**, **Express**, and **Mongoose**, connected to a **MongoDB Atlas** database. It manages Users and Tasks with full CRUD functionality and supports advanced querying.
 
+## Features
+
+- **Manage Users and Tasks** with CRUD operations.
+- **Advanced querying**: filtering, sorting, field selection, pagination, and counting.
+- **Two-way referencing** between Users and Tasks.
+- **Server-side validation** of required fields.
+- **Proper HTTP status codes** and error messages.
+- **Standardized responses** with `message` and `data` fields.
+
 **The Basic Goal** : Create an API for a task management / todo list.
 
 **The Fun Goal** : Imagine your hot new startup, Llama.io, is creating the best todo webapp on the market. You're competing in a crowded space with hot players like Asana, Wunderlist, Google Keep, etc, so your API has to be top-notch.
