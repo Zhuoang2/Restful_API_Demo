@@ -25,7 +25,12 @@ This project is a RESTful API built with **Node.js**, **Express**, and **Mongoos
 
    ```
    git clone https://github.com/your-username/task-manager-api.git
-   cd task-manager-api```
+   cd task-manager-api
+
+2. **Install dependencies:
+
+   ```
+   npm install
 
 ## Goals
 
