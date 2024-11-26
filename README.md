@@ -142,7 +142,6 @@ Here is the Task Schema:
 ### How to use the DB Scripts
 
 Assuming your API is fully operational (you need to have implement /users and /tasks endpoints for your API), these scripts (in database_scripts/ folder) will populate and clear your database as needed. 
-***NOTE: Use Python3 to run following codes*** 
 
 **dbClean.py**
 
@@ -154,7 +153,9 @@ You can change "localhost" and the port number to match your own running api ser
 
 **dbFill.py**
 
-python3 dbFill.py -u "localhost" -p 4000 -n 20 -t 100
+   ```
+   python3 dbFill.py -u "localhost" -p 4000 -n 20 -t 100
+   ```
 
 Once again, change the url and port number to match your own running api server. You can populate your database with X users and Y tasks (in the above case, 20 and 100 respectively). This will randomly generate users with realistic names and emails as well as realistic tasks. Tasks will have a 50% chance of being completed and a 60% chance of being assigned. If num_tasks >> num_users, users will likely have multiple tasks assigned to them. A task will have one assigned user at most.
 
