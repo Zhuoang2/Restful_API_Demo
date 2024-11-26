@@ -1,4 +1,6 @@
-# Restful API Demo
+# Task Manager API
+
+This project is a RESTful API built with **Node.js**, **Express**, and **Mongoose**, connected to a **MongoDB Atlas** database. It manages Users and Tasks with full CRUD functionality and supports advanced querying.
 
 **The Basic Goal** : Create an API for a task management / todo list.
 
