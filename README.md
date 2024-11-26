@@ -37,7 +37,7 @@ This project is a RESTful API built with **Node.js**, **Express**, and **Mongoos
 - **Create a database user with username and password.**
 - **Whitelist your IP address (use `0.0.0.0/0` for access from anywhere during development).**
 - **Get the connection string from the "Connect" section.**
-- **Replace `<username>`, `<password>`, and `<database>` with your actual MongoDB Atlas credentials in the config/secret.js file.**
+- **Replace `<username>`, `<password>`, and `<database>` with your actual MongoDB Atlas credentials in the config/secret.js.**
   ```
   MONGODB_URI=mongodb+srv://<username>:<password>@cluster0.mongodb.net/<database>?retryWrites=true&w=majority
    PORT=4000
