@@ -27,10 +27,16 @@ This project is a RESTful API built with **Node.js**, **Express**, and **Mongoos
    git clone https://github.com/your-username/task-manager-api.git
    cd task-manager-api
 
-2. **Install dependencies:
+2. **Install dependencies**:
 
    ```
    npm install
+
+3. **Set up MongoDB Atlas**:
+- **Create a cluster on MongoDB Atlas.
+- **Create a database user with username and password.
+- **Whitelist your IP address (use 0.0.0.0/0 for access from anywhere during development).
+- **Get the connection string from the "Connect" section.
 
 ## Goals
 
