@@ -11,6 +11,22 @@ This project is a RESTful API built with **Node.js**, **Express**, and **Mongoos
 - **Proper HTTP status codes** and error messages.
 - **Standardized responses** with `message` and `data` fields.
 
+## Getting Started
+
+### Prerequisites
+
+- **Node.js** (version 14.x or newer)
+- **npm** (Node Package Manager)
+- **MongoDB Atlas** account (free tier is sufficient)
+
+### Installation
+
+1. **Clone the repository**:
+
+   ```
+   git clone https://github.com/your-username/task-manager-api.git
+   cd task-manager-api```
+
 ## Goals
 
 **The Basic Goal** : Create an API for a task management / todo list.
